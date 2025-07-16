@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Pedro William</h1>
+<h1 align="center">Olá 👋, eu sou o Pedro William</h1>
 <h3 align="center">Java Developer | Back-end com Spring Boot | Front-end com Angular</h3>
 
 <p align="center">
