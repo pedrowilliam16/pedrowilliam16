@@ -13,7 +13,7 @@
 
 ---
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no **IESB (2024–2026)**.  
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.  
 🚀 Jovem Aprendiz na área de desenvolvimento na **Cast Group**, com experiência anterior em **Service Desk**.  
 💻 Apaixonado por desenvolvimento **back-end com Java/Spring Boot** e explorando **front-end com Angular**.  
 📚 Sempre buscando evolução contínua, boas práticas e aprendizado constante.
