@@ -77,7 +77,7 @@
 
 ---
 
-## 🟢 Snake Contribution (Pac-Man style)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedrowilliam16/pedrowilliam16/be34c52b89ea2ea3ad15a1981bc5a71c2be7a13d/only-svg/github-contribution-grid-snake-dark.svg" />
