@@ -24,7 +24,7 @@
 
 - **Cast Group – Digital Business**  
   <i>Jovem Aprendiz – Desenvolvimento (03/2025 - atual)</i>  
-  Tecnologias: Java, Spring Boot, Angular, MySQL
+  Estudo tecnologias Java, Spring Boot, Angular, PostegreSQL e auxilio em questões administrativas
 
 - **Cast Group – Coordenação Infra e Segurança**  
   <i>Jovem Aprendiz – Suporte Técnico (05/2024 - 02/2025)</i>  
