@@ -57,7 +57,7 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Gestão de Vagas](https://github.com/pedrowilliam16/gestao-vagas)
+### 🔹 [Gestão de Vagas](https://github.com/pedrowilliam16/gestao_vagas)
 
 > Projeto completo desenvolvido ao final da formação Java da RocketSeat.  
 > Aplicação com API RESTful segura, back-end com Spring Boot e front-end com Thymeleaf.  
